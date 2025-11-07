@@ -20,6 +20,8 @@ A simple, interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **
 - **JavaScript (Vanilla)** – Game logic and interactivity
 
 ## 📸 Screenshots
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/71bd1930-b083-45f1-908d-5a7236904c9a" />
+
 
 ![Tic Tac Toe Screenshot](https://abdurrahmancce.github.io/Tic-Tac-Toe-Game-by-Web-Project/screenshot.png)  
 *(Replace the above link with an actual screenshot if available)*
